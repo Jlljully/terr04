@@ -13,7 +13,9 @@
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled.png "1")
 
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled2.png "1")
 
 ### Задание 2
 
