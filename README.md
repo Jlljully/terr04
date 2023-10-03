@@ -98,17 +98,19 @@ No modules.
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled8.png "2")
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled8.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled9.png "2")
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled9.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled10.png "2")
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled10.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled11.png "2")
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled11.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled12.png "2")
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled12.png "3")
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled13.png "2")
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled13.png "3")
+
+Почему-то он при возвращении ВМ и плане предлагает сделать прерываемой, хотя она уже была (см скрин в задании 1)
 
 
 ## Дополнительные задания (со звёздочкой*)
