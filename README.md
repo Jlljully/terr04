@@ -41,7 +41,11 @@ module "vpc_dev" {
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled5.png "1")
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled6.png "2")
+
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled7.png "2")
+
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled5.png "2")
 
 
 ## Requirements
