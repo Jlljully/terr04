@@ -94,6 +94,23 @@ No modules.
 4. Импортируйте всё обратно. Проверьте terraform plan. Изменений быть не должно.
 Приложите список выполненных команд и скриншоты процессы.
 
+------
+
+### Ответ
+
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled8.png "2")
+
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled9.png "2")
+
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled10.png "2")
+
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled11.png "2")
+
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled12.png "2")
+
+![Скрин](https://github.com/Jlljully/terr04/blob/main/Untitled13.png "2")
+
+
 ## Дополнительные задания (со звёздочкой*)
 
 **Настоятельно рекомендуем выполнять все задания со звёздочкой.**   Они помогут глубже разобраться в материале.   
